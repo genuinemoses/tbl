@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# PHP
+vendor/
+node_modules/
+composer.phar
+composer.lock
+phpunit.xml
+.phpunit.result.cache
+.php_cs.cache
+.php-cs-fixer.cache
+.env
+.env.backup
+
+# WordPress
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+# IDE/Editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
